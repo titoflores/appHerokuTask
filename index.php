@@ -38,7 +38,7 @@
                     </fieldset> 
                 </form> 
             </div>
-            <h3>Aqui Mostrare</h3>
+            <h3>Tabla para mostrar datos</h3>
             <table id="js-tabla" border=1 class="table table-striped">
                 <tbody>
                     <tr>
