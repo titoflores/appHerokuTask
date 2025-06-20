@@ -52,8 +52,11 @@
 
         </div>
 
-
-
+<h1>Actualizacion</h1>
+<li>Tito</li>
+<li>Deivy</li>
+<li>Alizon</li>
+<li>JOnatan</li>
 
     </body>
     <script src="Librerias/js/jquery.js"></script>
