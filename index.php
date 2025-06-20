@@ -54,7 +54,7 @@
 
 <h1>Actualizacion</h1>
 <li>Tito</li>
-<li>Deivy</li>
+<li>Deivy Orlando Ortiz Martinez</li>
 <li>Alizon</li>
 <li>JOnatan</li>
 
