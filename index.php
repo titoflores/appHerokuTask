@@ -60,14 +60,8 @@
 <h1>Actualizacion</h1>
 <li>Tito</li>
 <li>Deivy</li>
-<<<<<<< HEAD
-<li>Alizon</li>
-<li>gabriel sossa</li>
->>>>>>> dc17b5e531989ae1c39b3c2945246b57a901a661
-=======
 <li>Alizon Cortez Escobar</li>
-<li>JOnatan Montesino</li>
->>>>>>> fc62941363942e54b3b8d578d75c190aedc494e1
+<li>JOnatan</li>
 
     </body>
     <script src="Librerias/js/jquery.js"></script>
