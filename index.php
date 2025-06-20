@@ -51,9 +51,18 @@
             </table>
 
         </div>
+<<<<<<< HEAD
          
 
 
+=======
+
+<h1>Actualizacion</h1>
+<li>Tito</li>
+<li>Deivy</li>
+<li>Alizon</li>
+<li>gabriel sossa</li>
+>>>>>>> dc17b5e531989ae1c39b3c2945246b57a901a661
 
     </body>
     <script src="Librerias/js/jquery.js"></script>
