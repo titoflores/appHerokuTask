@@ -53,10 +53,10 @@
         </div>
 
 <h1>Actualizacion</h1>
-<li>Tito</li>
-<li>Deivy</li>
-<li>Alizon Cortez Escobar</li>
-<li>JOnatan gabriel motesino</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 
     </body>
     <script src="Librerias/js/jquery.js"></script>
