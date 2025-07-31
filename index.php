@@ -53,7 +53,7 @@
         </div>
 
 <h1>Actualizacion</h1>
-<li></li>
+<li>Freddy</li>
 <li></li>
 <li></li>
 <li></li>
