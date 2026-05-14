@@ -53,10 +53,10 @@
         </div>
 
 <h1>Actualizacion</h1>
-<li>Imanol</li>
-<li>Sergio</li>
-<li>Daniel</li>
-<li></li>
+<h1><li>Imanol</li></h1>
+<h1<li>Sergio</li></h1>
+<h1<li>Daniel</li></h1>
+<h1<li></li></h1>
 
     </body>
     <script src="Librerias/js/jquery.js"></script>
