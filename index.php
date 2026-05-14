@@ -53,9 +53,9 @@
         </div>
 
 <h1>Actualizacion</h1>
-<li>Freddy</li>
-<li>Jhon Alex</li>
-<li>Junior</li>
+<li>Imanol</li>
+<li>Sergio</li>
+<li>Daniel</li>
 <li></li>
 
     </body>
